@@ -4,7 +4,7 @@ Drummy-NSynth is a project that uses TensorFlow and NSynth to generate new drum 
 
 ## Project Structure
 
-- `generate_nsynth_sound.py`: Script for generating new drum sounds using NSynth with weighted blending.
+- `blend_sounds.py`: Script for generating new drum sounds using NSynth with weighted blending.
 - `requirements.txt`: File listing the required Python packages.
 - `samples/`: Directory containing subdirectories for different drum sounds.
 
