@@ -2,9 +2,9 @@
 
 Drummy-NSynth is a project that uses TensorFlow and NSynth to generate new drum sounds from existing samples based on user-defined parameters. For example, you can create a new drum hit by combining 20% of one sound, 60% of another, and 20% of a third sound. The project consists of blending audio files and using a pre-trained NSynth model to generate new sounds.
 
-## todo
+## Todo
 
-The checkpoint size needs to be reduce down by retraining the model using my own sounds for a webapp using tensorflow.js.
+The checkpoint size needs to be reduced using my own drum sounds so it can be used in a web app.  It was trained on 30 gigs of waves and the checkpoint is a gig.
 
 
 ## Project Structure
